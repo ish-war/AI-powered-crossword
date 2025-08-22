@@ -59,7 +59,7 @@ npm i firebase uuid
 
 ### 3. Firebase Setup Instructions
 
-- Create a Firebase Project
+#### 1. Create a Firebase Project
 
 - Go to Firebase Console.
 
@@ -71,7 +71,7 @@ npm i firebase uuid
 
 - Click Create Project. Wait for it to finish.
 
-2. Register a Web App
+#### 2. Register a Web App
 
 - In your project dashboard, click Web (</>) to register a web app.
 
@@ -152,7 +152,13 @@ dist
 
 ## Screenshots
 
+<img width="1092" height="431" alt="Screenshot 2025-08-23 002330" src="https://github.com/user-attachments/assets/fc53ea18-2ef9-4631-b9e0-1392468ddd80" />
 
+<img width="1023" height="750" alt="Screenshot 2025-08-23 001607" src="https://github.com/user-attachments/assets/9516ad2f-64db-4698-9eb9-6843109953f4" />
+
+<img width="1035" height="442" alt="Screenshot 2025-08-23 001716" src="https://github.com/user-attachments/assets/7c2f1723-7339-44ef-b51f-8cae750b160e" />
+
+<img width="935" height="533" alt="Screenshot 2025-08-23 003036" src="https://github.com/user-attachments/assets/e84f5ca1-59b1-445b-a1ab-17fca4245e90" />
 
 ---
 
