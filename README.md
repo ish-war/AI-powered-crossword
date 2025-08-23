@@ -59,9 +59,9 @@ npm i firebase uuid
 
 ### 3. Firebase Setup Instructions
 
-#### 1. Create a [Firebase Project](https://firebase.google.com/)
+#### 1. Create a Firebase Project
 
-- Go to Firebase Console.
+- Go to [Firebase Console](https://firebase.google.com/)
 
 - Click "Add project".
 
