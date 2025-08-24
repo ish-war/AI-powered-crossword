@@ -7,6 +7,7 @@ A fun and interactive **10×10 crossword puzzle game** built with **React, TypeS
 - Chat feature for players
 - Scoreboard and leaderboard
 - Fully responsive and visually appealing UI
+- Try on Cloud - [Vercel Cloud](https://ai-powered-crossword.vercel.app/)
 
 ---
 
